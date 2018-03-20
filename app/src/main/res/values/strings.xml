@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Music player</string>
+    <string name="rock">ROCK</string>
+    <string name="pop">POP</string>
+    <string name="metal">METAL</string>
+    <string name="edm">EDM</string>
+    <string name="home">HOME</string>
+    <string name="edmActivity">This shows a list of edm songs ( Retrieved from device using MediaStore.Audio class ) </string>
+    <string name="rockActivity">This shows a list of rock songs( Retrieved from device using MediaStore.Audio class ) </string>
+    <string name="popActivity">This shows a list of pop songs ( Retrieved from device using MediaStore.Audio class ) </string>
+    <string name="metalActivity">This shows a list of metal songs ( Retrieved from device using MediaStore.Audio class ) </string>
+
+    <string name="player">Now Playing songs will be displayed here.(Using MediaPlayer class )</string>
+    <string name="rock_list">1 Hard Times : Paramore \n 2 Heavy : Linkin Park \n 3 Heathens : Twenty one pilots \n 4 Thunder : Imagine Dragons \n 5 Human : Rag n
+        Bone Man
+    </string>
+    <string name="pop_list">1 Despacito : Luis Fonzi \n 2 Cheap Thrills : Sia \n 3 The Cure : Lady Gaga \n 4 Swalla : Jason Derulo \n 5 Believer : Imagine Dragons
+    </string>
+    <string name="metal_list">1 Master of Puppets : Metallica \n 2 Hallowed be thy name : Iron Maiden \n 3 One : Metallica \n 4 Pain Killer : Judas Priest \n 5 Paranoid : Black Sabbath
+    </string>
+    <string name="edm_list">1 Stay : Zedd \n 2 It aint me : Kygo \n 3 Slide : Calvin Harris \n 4 Closer : The Chainsmokers \n 5 Swish Swish : Katy Perry
+    </string>
+    <string name="shufflePlay">Shuffle Play</string>
+</resources>
